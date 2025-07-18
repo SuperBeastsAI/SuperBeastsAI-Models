@@ -1,0 +1,107 @@
+SuperBeasts.AI Community License – Super Pop Color Adjustment (SPCA-Community-NoSaaS)
+Version 1.0 – 18 July 2025
+
+Plain-language license granting broad community use of the Super Pop Color Adjustment
+model weights while reserving hosted-service commercialization rights to SuperBeasts.AI.
+This is a CUSTOM license. It is NOT an OSI open-source license and NOT Apache-2.0.
+
+Contact: DM to Instagram @superbeasts.ai
+Project: https://github.com/SuperBeastsAI/SuperBeastsAI-Models
+Model Family: SuperPopColorAdjustment
+
+--------------------------------------------------------------------
+1. Definitions
+--------------------------------------------------------------------
+"Licensor" – SuperBeasts.AI
+
+"Model" – the Super Pop Color Adjustment neural network weights (all versions) and
+any derived/finetuned weight files based on them, in any format (.onnx, .safetensors,
+.ckpt, etc.).
+
+"Outputs" – media produced by running the Model (images, video frames, etc.).
+
+"Internal Use" – use by you, your employees, and contractors working for you under
+confidentiality (NDA); includes work you deliver to paying clients when you run the Model.
+
+"Public Hosted Service" – any website, SaaS platform, cloud API, mobile/web app, plug‑in,
+batch service, or other network-accessible system that lets unaffiliated external users
+submit content and receive processed results powered (in whole or part) by the Model.
+
+--------------------------------------------------------------------
+2. What You Can Do (No Permission Needed)
+--------------------------------------------------------------------
+You may download, run, modify, convert, and finetune the Model for:
+
+ • Personal projects;
+ • Commercial work done by you (studio, freelance, in‑house for clients);
+ • Research, education, portfolio demos, livestreams, and content creation;
+ • Private render farms / automation that YOU control (including cloud instances)
+   so long as external users do not directly access the Model.
+
+You may deliver corrected images/videos (Outputs) to clients. Rights in the content you
+process remain yours / your clients’—this License does not grant rights to third‑party
+input material.
+
+No attribution required (credit appreciated). Do not misrepresent origin (Section 3C).
+
+--------------------------------------------------------------------
+3. What Needs Permission
+--------------------------------------------------------------------
+You must obtain written permission (commercial license) from Licensor before you:
+
+(A) Offer the Model as a **Public Hosted Service** (paid or free), including
+    online apps, APIs, or cloud tools where outside users upload images and
+    receive Model‑processed results.
+
+(B) Redistribute, bundle, embed, or ship the Model weights outside your organization,
+    including in downloadable products, model packs, training bundles, checkpoints,
+    or installer images.
+
+(C) Market or brand the Model (or a derivative) as your own colour correction
+    technology or imply that you trained the original Model.
+
+Request permission: DM to Instagram @superbeasts.ai
+
+--------------------------------------------------------------------
+4. Responsible Use
+--------------------------------------------------------------------
+You agree not to use the Model or Outputs for:
+ • Illegal activity, or material that infringes others’ rights (copyright, privacy, etc.);
+ • Targeted harassment, hate, or abuse of protected groups;
+ • Non‑consensual sexual or exploitative content;
+ • Deceptive deepfakes presented as real people without disclosure.
+
+Keep it legal. Respect people.
+
+--------------------------------------------------------------------
+5. No Warranty
+--------------------------------------------------------------------
+THE MODEL IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. PERFORMANCE MAY VARY
+BY IMAGE TYPE, RESOLUTION, PLATFORM, OR WORKFLOW.
+
+--------------------------------------------------------------------
+6. Limitation of Liability
+--------------------------------------------------------------------
+TO THE FULLEST EXTENT PERMITTED BY LAW, LICENSOR IS NOT LIABLE FOR ANY DAMAGES
+ARISING FROM USE OR INABILITY TO USE THE MODEL OR OUTPUTS.
+
+--------------------------------------------------------------------
+7. Termination
+--------------------------------------------------------------------
+Your rights terminate automatically if you violate Section 3. Rights may be reinstated
+only in writing from Licensor (or as required by law).
+
+--------------------------------------------------------------------
+8. Optional Credit
+--------------------------------------------------------------------
+If you choose to credit, please use:
+  “Super Pop Color Adjustment – @SuperBeasts.AI”
+  https://github.com/SuperBeastsAI/SuperBeastsAI-Models
+
+  Or tag me on Instagram @SuperBeasts.AI
+
+--------------------------------------------------------------------
+9. Versioning
+--------------------------------------------------------------------
+Licensor may release updated license versions. New Model versions may ship under newer
+terms; older versions remain under the license they shipped with.
