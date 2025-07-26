@@ -16,7 +16,7 @@ Model Family: SuperPopColorAdjustment
 
 "Model" – the Super Pop Color Adjustment neural network weights (all versions) and
 any derived/finetuned weight files based on them, in any format (.onnx, .safetensors,
-.ckpt, etc.).
+.ckpt,.pt, etc.).
 
 "Outputs" – media produced by running the Model (images, video frames, etc.).
 

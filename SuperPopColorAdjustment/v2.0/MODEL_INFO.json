@@ -1,0 +1,16 @@
+{
+  "model_name": "Super Pop Color Adjustment",
+  "filename": "SuperBeasts_ColorAdjustment_512px_V2.safetensors",
+  "family": "SuperPopColorAdjustment",
+  "version": "v2.0",
+  "input_patch_px": 512,
+  "license": "SPCA-Community-NoSaaS",
+  "license_url": "https://github.com/SuperBeastsAI/SuperBeastsAI-Models/blob/main/SuperPopColorAdjustment/LICENSE.txt",
+  "sha256_preembed": "1a7e0aaa54d565b827c619a452bdeb04fd12975178b39560b92fe34cb839a065",
+  "trained_by": "SuperBeasts.AI",
+  "source_repo": "https://github.com/SuperBeastsAI/SuperBeastsAI-Models",
+  "released": "2025-07-26",
+  "notes": "New .safetensors",
+  "sha256_postembed": "1a7e0aaa54d565b827c619a452bdeb04fd12975178b39560b92fe34cb839a065",
+  "license_name": "Super Pop Color Adjustment (SPCA-Community-NoSaaS)"
+}
